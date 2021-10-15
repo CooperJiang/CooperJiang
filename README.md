@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=longyanjiang&show_icons=true&theme=radical&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=longyanjiang&show_icons=true&theme=radical&locale=cn&hide=contribs,prs)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=longyanjiang&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=longyanjiang&count_private=true&show_icons=true&theme=radical)
 
-![aaaaa](https://github-readme-stats.vercel.app/api?username=longyanjiang&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=buefy&locale=cn")
+![aaaaa](https://github-readme-stats.vercel.app/api?username=longyanjiang&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=buefy&locale=cn)
