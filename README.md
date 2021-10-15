@@ -8,10 +8,7 @@
 - 💬 我的微信：J_longyan
 - 📫 联系邮箱：J_longyan@163.com
 
-
-
 ## 年度统计
 
-
-![aaaaa](https://github-readme-stats.vercel.app/api?username=longyanjiang&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&layout=default&theme=buefy&locale=cn&custom_title=小九的github统计)
-![dasdas](https://github-readme-stats.vercel.app/api/top-langs/?username=longyanjiang&hide_border=true&layout=default&theme=buefy&locale=cn&custom_title=小九常用的语言)
+![my github info](https://github-readme-stats.vercel.app/api?username=longyanjiang&hide_border=true&show_icons=true&include_all_commits=true&line_height=30&theme=gruvbox&locale=cn&custom_title=小九的github统计)
+![my github info](https://github-readme-stats.vercel.app/api/top-langs/?username=longyanjiang&hide_border=true&layout=compact&theme=gruvbox&locale=cn&custom_title=小九常用的语言)
