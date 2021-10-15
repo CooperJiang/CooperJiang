@@ -13,5 +13,5 @@
 ## 年度统计
 
 
-![aaaaa](https://github-readme-stats.vercel.app/api?username=longyanjiang&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=buefy&locale=cn&custom_title=小九)
-![dasdas](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangquanming&hide_border=true&layout=compact&theme=buefy&locale=cn&custom_title=小九)
+![aaaaa](https://github-readme-stats.vercel.app/api?username=longyanjiang&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=buefy&locale=cn&custom_title=小九的github统计)
+![dasdas](https://github-readme-stats.vercel.app/api/top-langs/?username=longyanjiang&hide_border=true&layout=default&theme=buefy&locale=cn&custom_title=小九常用的语言)
