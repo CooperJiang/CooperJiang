@@ -21,6 +21,15 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=longyanjiang&repo=Nine-chat-backend&theme=tokyonight" />
   </a>
 </p>
+
+<p align = "center">
+  <a href="https://github.com/longyanjiang/Nine-chat-frontend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=longyanjiang&repo=Nine-chat-frontend&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/longyanjiang/Nine-chat-backend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=longyanjiang&repo=Nine-chat-backend&theme=tokyonight" />
+  </a>
+</p>
   
 <p align = "center">
     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=longyanjiang&repo=Nine-blog-api&theme=tokyonight" />
