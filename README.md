@@ -20,7 +20,15 @@
 <a href="https://github.com/longyanjiang/Nine-chat-backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=longyanjiang&repo=Nine-chat-backend&theme=tokyonight" />
 </a>
+<a href="https://github.com/longyanjiang/Nine-blog-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=longyanjiang&repo=Nine-blog-api&theme=tokyonight" />
+</a>
+<a href="https://github.com/longyanjiang/Nine-blog-web">
+  <img align="center" width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=longyanjiang&repo=Nine-blog-web&theme=tokyonight" />
+</a>
 </p>
 
->>>>>>>>>>>>>>>>>>>>>>>> 
+
+<p align='center'>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=longyanjiang&theme=redical" />
+</p>
