@@ -23,11 +23,11 @@
 </p>
   
 <p align = "center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=longyanjiang&repo=Nine-blog-api&theme=tokyonight" />
-    <img align="center" width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=longyanjiang&repo=Nine-blog-web&theme=tokyonight" />
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=longyanjiang&repo=Nine-blog-api&theme=tokyonight" />
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=longyanjiang&repo=Nine-blog-web&theme=tokyonight" />
 </p>
 
 
 <p align='center'>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=longyanjiang&theme=redical" />
+<img align="center" width="95%" src="https://activity-graph.herokuapp.com/graph?username=longyanjiang&theme=redical" />
 </p>
