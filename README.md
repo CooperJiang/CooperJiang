@@ -23,19 +23,14 @@
 </p>
 
 <p align = "center">
-  <a href="https://github.com/longyanjiang/Nine-chat-frontend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=longyanjiang&repo=Nine-chat-frontend&theme=tokyonight" />
+  <a href="https://github.com/longyanjiang/Nine-blog-web">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=longyanjiang&repo=Nine-blog-web&theme=tokyonight" />
   </a>
-  <a href="https://github.com/longyanjiang/Nine-chat-backend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=longyanjiang&repo=Nine-chat-backend&theme=tokyonight" />
+  <a href="https://github.com/longyanjiang/Nine-blog-api">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=longyanjiang&repo=Nine-blog-api&theme=tokyonight" />
   </a>
 </p>
   
-<p align = "center">
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=longyanjiang&repo=Nine-blog-api&theme=tokyonight" />
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=longyanjiang&repo=Nine-blog-web&theme=tokyonight" />
-</p>
-
 
 <p align='center'>
 <img align="center" width="95%" src="https://activity-graph.herokuapp.com/graph?username=longyanjiang&theme=redical" />
