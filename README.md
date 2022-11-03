@@ -26,8 +26,8 @@
   <a href="https://github.com/longyanjiang/Nine-blog-web">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=longyanjiang&repo=Nine-blog-web&theme=tokyonight" />
   </a>
-  <a href="https://github.com/longyanjiang/Nine-blog-api">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=longyanjiang&repo=Nine-blog-api&theme=tokyonight" />
+  <a href="https://github.com/longyanjiang/todolist">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=longyanjiang&repo=todolist&theme=tokyonight" />
   </a>
 </p>
   
