@@ -1,6 +1,6 @@
 
 ### Hi there 👋 I'm <a href="https://jiangly.com">小九</a>
-
+If you want to read Chinese, this is the English version of README. Please click [中文介绍](README.zh.md).
  
 <ul>
     <li>🤭 I am a programmer from 1998 who enjoys learning and researching code, independent development</li>
