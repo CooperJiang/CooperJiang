@@ -1,12 +1,22 @@
 
 ### Hi there 👋 I'm <a href="https://jiangly.com">小九</a>
 
-> 一位来自98年的前Coder 喜欢学习研究代码 喜欢独立开发 也喜欢交朋友 很高兴认识你 我的朋友
+ 
+<ul>
+    <li>🤭 I am a programmer from 1998 who enjoys learning and researching code, independent development</li>
+    <li>🔭 I’m interested in coding and exploring new technologies.</li>
+    <li>💰 I work in the gaming and esports industry</li>
+    <li>🌱 I believe “Coding can change the world” </li>
+    <li>🔥 I am a full stack developer who loves independent development</li>
+    <li>📚 I occasionally write articles in the gold mining industry: <a href="https://juejin.cn/user/3861140568811576/posts" rel="nofollow">Juejin community Signed author</a>,Welcome to your arrival!~ </li>
+    <li>💬 My WeChat account is （J_longyan）</li>
+    <li>📮 My Email account is （J_longyan@163.com）</li>
+</ul>
 
-- 🌐 个人博客：[小九的博客](https://jiangly.com/)
-- 🏡 潜水地点：[掘金](https://juejin.cn/user/3861140568811576/posts)
-- 💬 我的微信：J_longyan
-- 📫 联系邮箱：J_longyan@163.com
+### Some personal websites
+- 🤖 I have an AI website: <a href="https://nineai.chat" rel="nofollow">NineAi Chat</a>, Welcome to use! </li>
+- 💬 I have a music chat room where multiple people can chat online: <a href="https://music-chat.mmmss.con" rel="nofollow">Nine Music Chat</a>, Welcome to Entertainment! </li>
+- 🌐 I have a private blog: <a href="https://jiangly.com" rel="nofollow">Cooper'blog</a>, you're welcome to come! </li>
 
 ### Languages & Tools
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code>
