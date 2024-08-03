@@ -43,32 +43,22 @@
   </tr>
 </table>
 
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CooperJiang&theme=tokyonight">
-</p>
-
-
-
 <p align = "center">
   <a href="https://github.com/CooperJiang/Nine-chat-frontend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CooperJiang&repo=Nine-chat-frontend&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CooperJiang&repo=Nine-chat-frontend" />
   </a>
   <a href="https://github.com/CooperJiang/Nine-chat-backend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CooperJiang&repo=Nine-chat-backend&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CooperJiang&repo=Nine-chat-backend" />
   </a>
 </p>
 
 <p align = "center">
   <a href="https://github.com/CooperJiang/Nine-blog-web">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CooperJiang&repo=Nine-blog-web&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CooperJiang&repo=Nine-blog-web" />
   </a>
   <a href="https://github.com/CooperJiang/todolist">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CooperJiang&repo=todolist&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CooperJiang&repo=todolist" />
   </a>
 </p>
   
 
-<p align='center'>
-<img align="center" width="95%" src="https://activity-graph.herokuapp.com/graph?username=CooperJiang&theme=redical" />
-</p>
