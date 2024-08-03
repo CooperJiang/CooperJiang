@@ -8,13 +8,7 @@
 - 💬 我的微信：J_longyan
 - 📫 联系邮箱：J_longyan@163.com
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=CooperJiang&count_private=true&show_icons=true&theme=tokyonight&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CooperJiang&theme=tokyonight">
-</p>
-
 ### Languages & Tools
-
 <p dir="auto"><code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code>
@@ -24,6 +18,14 @@
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/github/explore/blob/main/topics/vite/vite.png"><img height="20" src="https://github.com/github/explore/blob/main/topics/vite/vite.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/github/explore/blob/main/topics/node/node.png"><img height="20" src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png" style="max-width: 100%;"></a></code>
 </p>
+
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=CooperJiang&count_private=true&show_icons=true&theme=tokyonight&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CooperJiang&theme=tokyonight">
+</p>
+
+
 
 <p align = "center">
   <a href="https://github.com/CooperJiang/Nine-chat-frontend">
