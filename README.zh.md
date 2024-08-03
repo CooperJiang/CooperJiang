@@ -14,7 +14,7 @@
 
 ### 一些个人网站
 - 🤖 我有一个AI网站：<a href="https://nineai.chat" rel="nofollow">NineAi Chat</a>，欢迎使用！ </li>
-- 💬 我有一个音乐聊天室，可以多人在线聊天：<a href="https://music-chat.mmmss.con" rel="nofollow">Nine Music Chat</a>，欢迎娱乐！ </li>
+- 💬 我有一个音乐聊天室，可以多人在线聊天：<a href="https://music-chat.mmmss.com" rel="nofollow">Nine Music Chat</a>，欢迎娱乐！ </li>
 - 🌐 我有一个私人博客：<a href="https://jiangly.com" rel="nofollow">Cooper's Blog</a>，欢迎来访！ </li>
 
 <h2 align="center">语言和部分技术栈 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
