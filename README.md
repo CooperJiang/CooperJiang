@@ -35,9 +35,10 @@
             <ul>
                 <li>🤭 Hi, I’m CooperJiang Nicknamed “Cooper”</li>
                 <li>🔭 I’m interested in coding and exploring new technologies.</li>
-              <li>🔥 I’m currently developing on <a href="https://github.com/ATQQ/sugar-blog/tree/master/packages/theme">@sugarat/theme<a/>、<a href="https://github.com/ATQQ/easypicker2-client">easpicker</a>... </li>
+                <li>💰 I work in the gaming and esports industry</li>
                 <li>🌱 I believe “Coding can change the world” </li>
-                <li>🏡 I have a private blog: <a href="https://jiangly.com" rel="nofollow">sugar'blog</a>, you're welcome to come!~ </li>
+                <li>🔥 I am a full stack developer who loves independent development</li>
+                <li>🏡 I have a private blog: <a href="https://jiangly.com" rel="nofollow">Cooper'blog</a>, you're welcome to come!~ </li>
             </ul>
         </td>
   </tr>
@@ -50,15 +51,13 @@
   <a href="https://github.com/CooperJiang/Nine-chat-backend">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CooperJiang&repo=Nine-chat-backend" />
   </a>
-</p>
-
-<p align = "center">
-  <a href="https://github.com/CooperJiang/Nine-blog-web">
+    <a href="https://github.com/CooperJiang/Nine-blog-web">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CooperJiang&repo=Nine-blog-web" />
   </a>
   <a href="https://github.com/CooperJiang/todolist">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CooperJiang&repo=todolist" />
   </a>
 </p>
+
   
 
