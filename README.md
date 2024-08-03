@@ -18,21 +18,22 @@ If you want to read Chinese, this is the English version of README. Please click
 - 💬 I have a music chat room where multiple people can chat online: <a href="https://music-chat.mmmss.con" rel="nofollow">Nine Music Chat</a>, Welcome to Entertainment! </li>
 - 🌐 I have a private blog: <a href="https://jiangly.com" rel="nofollow">Cooper'blog</a>, you're welcome to come! </li>
 
-### Languages & Tools
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/github/explore/blob/main/topics/node/node.png"><img height="20" src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/github/explore/blob/main/topics/go/go.png"><img height="20" src="https://github.com/github/explore/blob/main/topics/go/go.png" style="max-width: 100%;"></a></code>
-
-<p dir="auto"><code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/github/explore/blob/main/topics/vite/vite.png"><img height="20" src="https://github.com/github/explore/blob/main/topics/vite/vite.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/github/explore/blob/main/topics/docker/docker.png"><img height="20" src="https://github.com/github/explore/blob/main/topics/docker/docker.png" style="max-width: 100%;"></a></code>
+<h2 align="center">Languages & Tools <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p align="center">
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go"/>
+<img src="https://img.shields.io/badge/-NestJs-black?style=flat-square&logo=nestjs"/>
+<img src="https://img.shields.io/badge/-VueJs-black?style=flat-square&logo=Vue.js"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis"/>
+<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite"/>
+<img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=ts-node"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
-
-
+<h2></h2>
 <table>
   <tr align="center">
     <td>
