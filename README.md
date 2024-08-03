@@ -27,20 +27,12 @@
   <tr align="center">
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-        <img align="center" name="Cooper's github stats" src="https://github-readme-stats.vercel.app/api?username=CooperJiang&show_icons=true" />
+        <img align="center" name="Cooper's github stats" src="https://github-readme-stats.vercel.app/api?username=CooperJiang&show_icons=true&theme=tokyonight" />
       </a>
     </td>
-<td align="left">
-            <div align="center">Recent</div>
-            <ul>
-                <li>🤭 Hi, I’m CooperJiang Nicknamed “Cooper”</li>
-                <li>🔭 I’m interested in coding and exploring new technologies.</li>
-                <li>💰 I work in the gaming and esports industry</li>
-                <li>🌱 I believe “Coding can change the world” </li>
-                <li>🔥 I am a full stack developer who loves independent development</li>
-                <li>🏡 I have a private blog: <a href="https://jiangly.com" rel="nofollow">Cooper'blog</a>, you're welcome to come!~ </li>
-            </ul>
-        </td>
+  <td align="left">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CooperJiang&theme=tokyonight&layout=compact">
+   </td>
   </tr>
 </table>
 
