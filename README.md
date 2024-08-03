@@ -1,7 +1,7 @@
 
-###  我是小九 🚀
+### Hi there 👋 I'm <a href="https://jiangly.com">小九</a>
 
-> 一位来自98年的前端程序员 喜欢学习研究代码 也喜欢交朋友 很高兴认识你 我的朋友
+> 一位来自98年的前Coder 喜欢学习研究代码 喜欢独立开发 也喜欢交朋友 很高兴认识你 我的朋友
 
 - 🌐 个人博客：[小九的博客](https://jiangly.com/)
 - 🏡 潜水地点：[掘金](https://juejin.cn/user/3861140568811576/posts)
@@ -44,20 +44,21 @@
   </tr>
 </table>
 
-<p align = "center">
+### Some Projects
+
   <a href="https://github.com/CooperJiang/Nine-chat-frontend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CooperJiang&repo=Nine-chat-frontend" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CooperJiang&repo=Nine-chat-frontend&theme=radical" />
   </a>
   <a href="https://github.com/CooperJiang/Nine-chat-backend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CooperJiang&repo=Nine-chat-backend" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CooperJiang&repo=Nine-chat-backend&theme=radical" />
   </a>
+  <p></p>
     <a href="https://github.com/CooperJiang/Nine-blog-web">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CooperJiang&repo=Nine-blog-web" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CooperJiang&repo=Nine-blog-web&theme=radical" />
   </a>
   <a href="https://github.com/CooperJiang/todolist">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CooperJiang&repo=todolist" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CooperJiang&repo=todolist&theme=radical" />
   </a>
-</p>
 
   
 
