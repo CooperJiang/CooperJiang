@@ -7,7 +7,7 @@ If you want to read Chinese, this is the English version of README. Please click
     <li>🔭 I’m interested in coding and exploring new technologies.</li>
     <li>💰 I work in the gaming and esports industry</li>
     <li>🌱 I believe “Coding can change the world” </li>
-    <li>🔥 I am a full stack developer who loves independent development</li>
+    <li>🔥 I am a full stack developer， I enjoy learning different techniques</li>
     <li>📚 I occasionally write articles in the gold mining industry: <a href="https://juejin.cn/user/3861140568811576/posts" rel="nofollow">Juejin community Signed author</a>,Welcome to your arrival!~ </li>
     <li>💬 My WeChat account is （J_longyan）</li>
     <li>📮 My Email account is （J_longyan@163.com）</li>
