@@ -23,6 +23,27 @@
 </p>
 
 
+<table>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+        <img align="center" name="Cooper's github stats" src="https://github-readme-stats.vercel.app/api?username=CooperJiang&show_icons=true" />
+      </a>
+    </td>
+<td align="left">
+            <div align="center">Recent</div>
+            <ul>
+                <li>🤭 Hi, I’m CooperJiang Nicknamed “Cooper”</li>
+                <li>🔭 I’m interested in coding and exploring new technologies.</li>
+              <li>🔥 I’m currently developing on <a href="https://github.com/ATQQ/sugar-blog/tree/master/packages/theme">@sugarat/theme<a/>、<a href="https://github.com/ATQQ/easypicker2-client">easpicker</a>... </li>
+                <li>🌱 I believe “Coding can change the world” </li>
+                <li>🏡 I have a private blog: <a href="https://jiangly.com" rel="nofollow">sugar'blog</a>, you're welcome to come!~ </li>
+            </ul>
+        </td>
+  </tr>
+</table>
+
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=CooperJiang&count_private=true&show_icons=true&theme=tokyonight&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CooperJiang&theme=tokyonight">
