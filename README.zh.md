@@ -13,9 +13,10 @@
 </ul>
 
 ### 一些个人网站
-- 🤖 我有一个AI网站：<a href="https://nineai.chat" rel="nofollow">NineAi Chat</a>，欢迎使用！ </li>
-- 💬 我有一个音乐聊天室，可以多人在线聊天：<a href="https://music-chat.mmmss.com" rel="nofollow">Nine Music Chat</a>，欢迎娱乐！ </li>
-- 🌐 我有一个私人博客：<a href="https://jiangly.com" rel="nofollow">Cooper's Blog</a>，欢迎来访！ </li>
+- 🤖 我有一个AI网站：<a href="https://nineai.chat" rel="nofollow">NineAi Chat</a>，可以使用非常多的AI大模型！ </li>
+- 💬 我有一个音乐聊天室，可以多人在线聊天：<a href="https://music-chat.mmmss.com" rel="nofollow">Nine Music Chat</a>，可以多人多群组同时听歌聊天！ </li>
+- 📒 我有一个待办笔记的网站: <a href="https://todo.mmmss.com" rel="nofollow">TodoList Panel</a>, 可以快速创建代办事项! </li>
+- 🌐 我有一个私人博客：<a href="https://jiangly.com" rel="nofollow">Cooper's Blog</a>，记录了我的一些日常笔记和一些博客文章！ </li>
 
 <h2 align="center">语言和部分技术栈 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
