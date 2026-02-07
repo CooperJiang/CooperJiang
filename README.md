@@ -14,6 +14,7 @@ If you want to read Chinese, this is the English version of README. Please click
 </ul>
 
 ### Some personal websites
+- 🤖 I have an picBed website: <a href="[https://pixelpunk.cc](https://pixelpunk.cc/)" rel="nofollow">Pixelpunk</a>, He is a very comprehensive image bed system with a wide range of functions! </li>
 - 🤖 I have an AI website: <a href="https://nineai.chat" rel="nofollow">NineAi Chat</a>, which offers many AI models! </li>
 - 💬 I have an music chat room where multiple people can chat online: <a href="https://music-chat.mmmss.com" rel="nofollow">Nine Music Chat</a>, Welcome to experiencesimultaneously! </li>
 - 📒 I have an TodoList Panel website: <a href="https://todo.mmmss.com" rel="nofollow">TodoList Panel</a>, where you can quickly create to-do items! </li>
@@ -34,35 +35,4 @@ If you want to read Chinese, this is the English version of README. Please click
 <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=ts-node"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
-<h2></h2>
-<table>
-  <tr align="center">
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-        <img align="center" name="Cooper's github stats" src="https://github-readme-stats.vercel.app/api?username=CooperJiang&show_icons=true&theme=tokyonight" />
-      </a>
-    </td>
-  <td align="left">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CooperJiang&theme=tokyonight&layout=compact">
-   </td>
-  </tr>
-</table>
-
-### Some Projects
-
-  <a href="https://github.com/CooperJiang/Nine-chat-frontend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CooperJiang&repo=Nine-chat-frontend&theme=radical" />
-  </a>
-  <a href="https://github.com/CooperJiang/Nine-chat-backend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CooperJiang&repo=Nine-chat-backend&theme=radical" />
-  </a>
-  <p></p>
-    <a href="https://github.com/CooperJiang/Nine-blog-web">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CooperJiang&repo=Nine-blog-web&theme=radical" />
-  </a>
-  <a href="https://github.com/CooperJiang/todolist">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CooperJiang&repo=todolist&theme=radical" />
-  </a>
-
-  
 
